@@ -1,11 +1,50 @@
 <h1 align="center">Hi 👋, I'm Nuno Cancelo</h1>
 <h3 align="center">Microsoft Practice Lead | Community Leader | Developer Evangelist | Speaker</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=masterzdran&label=Profile%20views&color=0e75b6&style=flat" alt="masterzdran" /> </p>
+<p align="left"> 
+ 
+<a href="https://twitter.com/masterzdran" target="blank"><img src="https://img.shields.io/twitter/follow/masterzdran?logo=twitter&style=for-the-badge" alt="masterzdran" /></a> 
+<a href="https://github.com/masterzdran" target="blank"><img src="https://img.shields.io/github/followers/masterzdran?logo=github&style=for-the-badge" alt="masterzdran" /></a> 
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masterzdran" alt="masterzdran" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/masterzdran" target="blank"><img src="https://img.shields.io/twitter/follow/masterzdran?logo=twitter&style=for-the-badge" alt="masterzdran" /></a> </p>
+<h3> 🔭 I’m currently working on:</h3>
+<ul>
+<li><a href="https://github.com/masterzdran/document-number-validator">Document Number Validator/Generator</a></li>
+<ul>
+    <li><img src="https://img.shields.io/nuget/v/DocumentNumber.InternationalBankAccountNumber.Validator" alt="DocumentNumber.InternationalBankAccountNumber.Validator"/><img src="https://img.shields.io/nuget/dt/DocumentNumber.InternationalBankAccountNumber.Validator" alt="DocumentNumber.InternationalBankAccountNumber.Validator"/><a href="https://www.nuget.org/packages/DocumentNumber.InternationalBankAccountNumber.Validator/" target="blank"> DocumentNumber.InternationalBankAccountNumber.Validator</a></li>
+    <li><img src="https://img.shields.io/nuget/v/DocumentNumber.PaymentCardNumber.AmericanExpress.Validator" alt="DocumentNumber.PaymentCardNumber.AmericanExpress.Validator"/><img src="https://img.shields.io/nuget/dt/DocumentNumber.PaymentCardNumber.AmericanExpress.Validator" alt="DocumentNumber.PaymentCardNumber.AmericanExpress.Validator"/><a href="https://www.nuget.org/packagesDocumentNumber.PaymentCardNumber.AmericanExpress.Validator/" target="blank"> DocumentNumber.PaymentCardNumber.AmericanExpress.Validator</a></li>
+    <li><img src="https://img.shields.io/nuget/v/DocumentNumber.PaymentCardNumber.Common" alt="DocumentNumber.PaymentCardNumber.Common"/><img src="https://img.shields.io/nuget/dt/DocumentNumber.PaymentCardNumber.Common" alt="DocumentNumber.PaymentCardNumber.Common"/><a href="https://www.nuget.org/packages/DocumentNumber.PaymentCardNumber.Common/" target="blank"> DocumentNumber.PaymentCardNumber.Common</a></li>
+    <li><img src="https://img.shields.io/nuget/v/DocumentNumber.PaymentCardNumber.Maestro.Validator" alt="DocumentNumber.PaymentCardNumber.Maestro.Validator"/><img src="https://img.shields.io/nuget/dt/DocumentNumber.PaymentCardNumber.Maestro.Validator" alt="DocumentNumber.PaymentCardNumber.Maestro.Validator"/><a href="https://www.nuget.org/packages/DocumentNumber.PaymentCardNumber.Maestro.Validator/" target="blank"> DocumentNumber.PaymentCardNumber.Maestro.Validator</a></li>
+    <li><img src="https://img.shields.io/nuget/v/DocumentNumber.PaymentCardNumber.MaestroUK.Validator" alt="DocumentNumber.PaymentCardNumber.MaestroUK.Validator"/><img src="https://img.shields.io/nuget/dt/DocumentNumber.PaymentCardNumber.MaestroUK.Validator" alt="DocumentNumber.PaymentCardNumber.MaestroUK.Validator"/><a href="https://www.nuget.org/packages/DocumentNumber.PaymentCardNumber.MaestroUK.Validator/" target="blank"> DocumentNumber.PaymentCardNumber.MaestroUK.Validator</a></li>
+    <li><img src="https://img.shields.io/nuget/v/DocumentNumber.PaymentCardNumber.Mastercard.Validator" alt="DocumentNumber.PaymentCardNumber.Mastercard.Validator"/><img src="https://img.shields.io/nuget/dt/DocumentNumber.PaymentCardNumber.Mastercard.Validator" alt="DocumentNumber.PaymentCardNumber.Mastercard.Validator"/><a href="https://www.nuget.org/packages/DocumentNumber.PaymentCardNumber.Mastercard.Validator/" target="blank"> DocumentNumber.PaymentCardNumber.Mastercard.Validator</a></li>
+    <li><img src="https://img.shields.io/nuget/v/DocumentNumber.PaymentCardNumber.VISA.Validator" alt="DocumentNumber.PaymentCardNumber.VISA.Validator"/><img src="https://img.shields.io/nuget/dt/DocumentNumber.PaymentCardNumber.VISA.Validator" alt="DocumentNumber.PaymentCardNumber.VISA.Validator"/><a href="https://www.nuget.org/packages/DocumentNumber.PaymentCardNumber.VISA.Validator/" target="blank"> DocumentNumber.PaymentCardNumber.VISA.Validator</a></li>
+    <li><img src="https://img.shields.io/nuget/v/DocumentNumber.PaymentCardNumber.VISAElectron.Validator" alt="DocumentNumber.PaymentCardNumber.VISAElectron.Validator"/><img src="https://img.shields.io/nuget/dt/DocumentNumber.PaymentCardNumber.VISAElectron.Validator" alt="DocumentNumber.PaymentCardNumber.VISAElectron.Validator"/><a href="https://www.nuget.org/packages/DocumentNumber.PaymentCardNumber.VISAElectron.Validator/" target="blank"> DocumentNumber.PaymentCardNumber.VISAElectron.Validator</a></li>
+    <li><img src="https://img.shields.io/nuget/v/DocumentNumber.Portugal.BankAccountNumber.Validator" alt="DocumentNumber.Portugal.BankAccountNumber.Validator"/><img src="https://img.shields.io/nuget/dt/DocumentNumber.Portugal.BankAccountNumber.Validator" alt="DocumentNumber.Portugal.BankAccountNumber.Validator"/><a href="https://www.nuget.org/packages/DocumentNumber.Portugal.BankAccountNumber.Validator/" target="blank"> DocumentNumber.Portugal.BankAccountNumber.Validator</a></li>
+    <li><img src="https://img.shields.io/nuget/v/DocumentNumber.Portugal.CitizenCard.Generator" alt="DocumentNumber.Portugal.CitizenCard.Generator"/><img src="https://img.shields.io/nuget/dt/DocumentNumber.Portugal.CitizenCard.Generator" alt="DocumentNumber.Portugal.CitizenCard.Generator"/><a href="https://www.nuget.org/packages/DocumentNumber.Portugal.CitizenCard.Generator/" target="blank"> DocumentNumber.Portugal.CitizenCard.Generator</a></li>
+    <li><img src="https://img.shields.io/nuget/v/DocumentNumber.Portugal.CitizenCard.Validator" alt="DocumentNumber.Portugal.CitizenCard.Validator"/><img src="https://img.shields.io/nuget/dt/DocumentNumber.Portugal.CitizenCard.Validator" alt="DocumentNumber.Portugal.CitizenCard.Validator"/><a href="https://www.nuget.org/packages/DocumentNumber.Portugal.CitizenCard.Validator/" target="blank"> DocumentNumber.Portugal.CitizenCard.Validator</a></li>
+    <li><img src="https://img.shields.io/nuget/v/DocumentNumber.Portugal.Nif.Generator" alt="DocumentNumber.Portugal.Nif.Generator"/><img src="https://img.shields.io/nuget/dt/DocumentNumber.Portugal.Nif.Generator" alt="DocumentNumber.Portugal.Nif.Generator"/><a href="https://www.nuget.org/packages/DocumentNumber.Portugal.Nif.Generator/" target="blank"> DocumentNumber.Portugal.Nif.Generator</a></li>
+    <li><img src="https://img.shields.io/nuget/v/DocumentNumber.Portugal.Nif.Validator" alt="DocumentNumber.Portugal.Nif.Validator"/><img src="https://img.shields.io/nuget/dt/DocumentNumber.Portugal.Nif.Validator" alt="DocumentNumber.Portugal.Nif.Validator"/><a href="https://www.nuget.org/packages/DocumentNumber.Portugal.Nif.Validator/" target="blank"> DocumentNumber.Portugal.Nif.Validator</a></li>
+    <li><img src="https://img.shields.io/nuget/v/DocumentNumber.Portugal.Niss.Generator" alt="DocumentNumber.Portugal.Niss.Generator"/><img src="https://img.shields.io/nuget/dt/DocumentNumber.Portugal.Niss.Generator" alt="DocumentNumber.Portugal.Niss.Generator"/><a href="https://www.nuget.org/packages/DocumentNumber.Portugal.Niss.Generator/" target="blank"> DocumentNumber.Portugal.Niss.Generator</a></li>
+    <li><img src="https://img.shields.io/nuget/v/DocumentNumber.Portugal.Niss.Validator" alt="DocumentNumber.Portugal.Niss.Validator"/><img src="https://img.shields.io/nuget/dt/DocumentNumber.Portugal.Niss.Validator" alt="DocumentNumber.Portugal.Niss.Validator"/><a href="https://www.nuget.org/packages/DocumentNumber.Portugal.Niss.Validator/" target="blank"> DocumentNumber.Portugal.Niss.Validator</a></li>
+    <li><img src="https://img.shields.io/nuget/v/DocumentNumber.ValidatorAbstractions" alt="DocumentNumber.ValidatorAbstractions"/><img src="https://img.shields.io/nuget/dt/DocumentNumber.ValidatorAbstractions" alt="DocumentNumber.ValidatorAbstractions"/><a href="https://www.nuget.org/packages/DocumentNumber.ValidatorAbstractions/" target="blank"> DocumentNumber.ValidatorAbstractions</a></li>
+    
+</ul>
+<li><a href="https://github.com/masterzdran/payment-required">Payment Required</a></li>
+<ul>
+    <li><img src="https://img.shields.io/nuget/v/PaymentRequired" alt="PaymentRequired"/><img src="https://img.shields.io/nuget/dt/PaymentRequired" alt="PaymentRequired"/><a href="https://www.nuget.org/packages/PaymentRequired/" target="blank"> PaymentRequired</a></li>
+</ul>
+<li><a href="https://github.com/masterzdran/dotnet-new-custom-templates">dotnet new custom templates</a></li>
+<ul>
+<li><img src="https://img.shields.io/nuget/v/LeanArchitecture.Dotnet.Templates.Project" alt="LeanArchitecture.Dotnet.Templates.Project"/><img src="https://img.shields.io/nuget/dt/LeanArchitecture.Dotnet.Templates.Project" alt="LeanArchitecture.Dotnet.Templates.Project"/><a href="https://www.nuget.org/packages/LeanArchitecture.Dotnet.Templates.Project/" target="blank"> LeanArchitecture.Dotnet.Templates.Project</a></li>
+
+    
+</ul>
+</ul>
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
