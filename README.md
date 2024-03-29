@@ -3,7 +3,7 @@
 
 <p align="left"> 
  
-<a href="https://twitter.com/masterzdran" target="blank"><img src="https://img.shields.io/twitter/follow/masterzdran?logo=twitter&style=for-the-badge" alt="masterzdran" /></a> 
+<a href="https://www.linkedin.com/in/nunocancelo/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Nuno Cancelo" /></a> 
 <a href="https://github.com/masterzdran" target="blank"><img src="https://img.shields.io/github/followers/masterzdran?logo=github&style=for-the-badge" alt="masterzdran" /></a> 
 </p>
 
