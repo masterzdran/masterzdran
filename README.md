@@ -78,5 +78,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masterzdran&show_icons=true&locale=en&layout=compact" alt="masterzdran" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masterzdran&show_icons=true&locale=en" alt="masterzdran" /></p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=masterzdran)](https://git.io/streak-stats)
