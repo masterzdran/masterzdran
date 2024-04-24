@@ -50,8 +50,10 @@
 <li><a href="https://github.com/masterzdran/dotnet-new-custom-templates">dotnet new custom templates</a></li>
 <ul>
 <li><img src="https://img.shields.io/nuget/v/LeanArchitecture.Dotnet.Templates.Project" alt="LeanArchitecture.Dotnet.Templates.Project"/><img src="https://img.shields.io/nuget/dt/LeanArchitecture.Dotnet.Templates.Project" alt="LeanArchitecture.Dotnet.Templates.Project"/><a href="https://www.nuget.org/packages/LeanArchitecture.Dotnet.Templates.Project/" target="blank"> LeanArchitecture.Dotnet.Templates.Project</a></li>
-
-    
+</ul>
+<li><a href=https://github.com/masterzdran/masterzdran-restapi-extensions">masterzdran-restapi-extensions</a></li>
+<ul>
+<li><img src="https://img.shields.io/nuget/v/MasterZdran.RestApi.Extensions" alt="MasterZdran.RestApi.Extensions"/><img src="https://img.shields.io/nuget/dt/MasterZdran.RestApi.Extensions" alt="MasterZdran.RestApi.Extensions"/><a href="https://www.nuget.org/packages/MasterZdran.RestApi.Extensions/" target="blank"> MasterZdran.RestApi.Extensions</a></li>
 </ul>
 </ul>
 
