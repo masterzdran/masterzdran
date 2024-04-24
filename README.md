@@ -79,5 +79,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masterzdran&show_icons=true&locale=en" alt="masterzdran" /></p>
 
-<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=masterzdran" alt="GitHub Streak" /></a>
-Copy To Clipboard</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=masterzdran)](https://git.io/streak-stats)
