@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nuno%20Cancelo&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Microsoft%20Practice%20Lead%20%7C%20Developer%20Evangelist%20%7C%20Speaker&descSize=18&descAlignY=57" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nuno%20Cancelo&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cloud%2FAI%20Architect%20%7C%20DevOps%20Engineer%20%7C%20Lead%20Software%20Engineer&descSize=16&descAlignY=57" width="100%"/>
 </div>
 
 <div align="center">
@@ -15,14 +15,14 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=650&lines=Microsoft+Practice+Lead;Community+Leader+%26+Speaker;Developer+Evangelist;Azure+%26+.NET+%26+Python+Enthusiast;144K%2B+NuGet+Downloads;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=650&lines=Cloud%2FAI+Architect;DevOps+Engineer;Lead+Software+Engineer+%26+Manager;Community+Leader+%26+Speaker;Azure+%26+.NET+%26+Python+Enthusiast;144K%2B+NuGet+Downloads" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- ☁️ **Microsoft Practice Lead** — helping teams architect and deliver cloud solutions on **Azure**
+- ☁️ **Cloud/AI Architect · DevOps Engineer · Lead Software Engineer & Manager** — designing resilient Azure solutions, driving AI adoption, and leading engineering teams
 - 📦 Publishing open-source libraries on [NuGet](https://www.nuget.org/profiles/masterzdran) (39 packages, **144,561+ downloads**) and [PyPI](https://pypi.org/project/mz-logging-azure-tablestorage/)
 - 🏛️ Creator of **Structura** — a family of solution templates for React, .NET and Python projects
 - 🎤 **Community Leader & Speaker** — sharing knowledge at conferences and meetups
@@ -77,6 +77,24 @@ A NuGet library of methods and models that make REST APIs simpler and consistent
 
 [![NuGet Version](https://img.shields.io/nuget/v/MasterZdran.RestApi.Extensions?style=for-the-badge&logo=nuget&logoColor=white)](https://www.nuget.org/packages/MasterZdran.RestApi.Extensions/)
 [![NuGet Downloads](https://img.shields.io/nuget/dt/MasterZdran.RestApi.Extensions?style=for-the-badge)](https://www.nuget.org/packages/MasterZdran.RestApi.Extensions/)
+
+---
+
+## 🤝 Open Source Contributions
+
+> Pull requests opened and merged in external repositories — 9 PRs · 5 merged.
+
+| Repository | Pull Request | Status | Stack | Year |
+|------------|--------------|:------:|-------|:----:|
+| [jpitapeva/extensao-devops-pull-request](https://github.com/jpitapeva/extensao-devops-pull-request) | [#12 — General stability improvements & validations](https://github.com/jpitapeva/extensao-devops-pull-request/pull/12) | ![merged](https://img.shields.io/badge/-merged-8957e5?style=flat-square) | TypeScript | 2026 |
+| [jpitapeva/extensao-devops-pull-request](https://github.com/jpitapeva/extensao-devops-pull-request) | [#11 — Bug/several fixes](https://github.com/jpitapeva/extensao-devops-pull-request/pull/11) | ![closed](https://img.shields.io/badge/-closed-6e7681?style=flat-square) | TypeScript | 2026 |
+| [jpitapeva/extensao-devops-pull-request](https://github.com/jpitapeva/extensao-devops-pull-request) | [#10 — Automatic labels & AI review feedback improvements](https://github.com/jpitapeva/extensao-devops-pull-request/pull/10) | ![merged](https://img.shields.io/badge/-merged-8957e5?style=flat-square) | TypeScript | 2026 |
+| [ArieGato/serilog-sinks-rabbitmq](https://github.com/ArieGato/serilog-sinks-rabbitmq) | [#52 — Add SSL/TLS support to RabbitMQ Serilog sink](https://github.com/ArieGato/serilog-sinks-rabbitmq/pull/52) | ![closed](https://img.shields.io/badge/-closed-6e7681?style=flat-square) | C# | 2018 |
+| [netponto/NetPonto.Sorteio](https://github.com/netponto/NetPonto.Sorteio) | [#10 — Vertical scroll bug fix](https://github.com/netponto/NetPonto.Sorteio/pull/10) | ![closed](https://img.shields.io/badge/-closed-6e7681?style=flat-square) | C# | 2014 |
+| [netponto/NetPonto.Sorteio](https://github.com/netponto/NetPonto.Sorteio) | [#9 — Listbox scroll fix](https://github.com/netponto/NetPonto.Sorteio/pull/9) | ![merged](https://img.shields.io/badge/-merged-8957e5?style=flat-square) | C# | 2014 |
+| [monicalemos/MemWeb](https://github.com/monicalemos/MemWeb) | [#3 — Logging + Hibernate + DB integration](https://github.com/monicalemos/MemWeb/pull/3) | ![closed](https://img.shields.io/badge/-closed-6e7681?style=flat-square) | Java | 2014 |
+| [monicalemos/MemWeb](https://github.com/monicalemos/MemWeb) | [#2 — Framework & dependency update](https://github.com/monicalemos/MemWeb/pull/2) | ![merged](https://img.shields.io/badge/-merged-8957e5?style=flat-square) | Java | 2014 |
+| [monicalemos/MemWeb](https://github.com/monicalemos/MemWeb) | [#1 — Tiles integration](https://github.com/monicalemos/MemWeb/pull/1) | ![merged](https://img.shields.io/badge/-merged-8957e5?style=flat-square) | Java | 2014 |
 
 ---
 
@@ -192,12 +210,7 @@ A NuGet library of methods and models that make REST APIs simpler and consistent
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masterzdran&show_icons=true&theme=nord&locale=en&hide_border=true" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=masterzdran&show_icons=true&theme=nord&locale=en&layout=compact&hide_border=true" height="170" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masterzdran&theme=nord&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=masterzdran&theme=nord&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
