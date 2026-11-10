@@ -39,7 +39,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://trophy.benkou.dev/?username=masterzdran&theme=nord&no-frame=true&no-bg=true&margin-w=4" alt="masterzdran trophies"/>
+    <img src="https://gh-trophy.vercel.app/?username=masterzdran&theme=nord&no-frame=true&no-bg=true&margin-w=4" alt="masterzdran trophies"/>
   </a>
 </div>
 
@@ -123,7 +123,6 @@ A NuGet library of methods and models that make REST APIs simpler and consistent
 | [mz-dotnet-new-templates](https://github.com/masterzdran/mz-dotnet-new-templates) | `dotnet new` accelerators — FastAPI, and React + FastAPI BFF, with Entra ID auth, OpenTelemetry and Docker | Python · React · C# |
 | [mz-react-ts-simple-chatbot](https://github.com/masterzdran/mz-react-ts-simple-chatbot) | **SecureChatbot** — embeddable React chatbot with input validation, rate limiting, CSRF and XSS protection | React · TypeScript |
 | [devops-pipeline-ui](https://github.com/masterzdran/devops-pipeline-ui) | Visual Azure DevOps pipeline designer — drag-and-drop stages, jobs and tasks | React · React Flow |
-| [AIOperationsAssistant-Article](https://github.com/masterzdran/AIOperationsAssistant-Article) | AI Operations Assistant — .NET 10 console agent on Azure AI Foundry with DI and a REPL loop | .NET · Azure AI |
 | [secured-base-dev-containers](https://github.com/masterzdran/secured-base-dev-containers) | Hardened dev container base with Snyk, OWASP dependency-check, SonarQube and Trivy wired in | Dockerfile |
 | [mz-solution-items-template](https://github.com/masterzdran/mz-solution-items-template) | Reusable solution-item scaffolding used across the Structura family | Multi-stack |
 
