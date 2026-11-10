@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-- ☁️ **Cloud/AI Architect · Solutions Architect · DevOps Engineer · Lead Software Engineer · Practice Lead · CTO · Technical Manager · Head of Development · Head of Innovation** — designing resilient Azure solutions, driving cloud and AI adoption, leading engineering teams, and adding value on every delivery
+- ☁️ **CTO · Head of Development & Innovation · Cloud/AI/Application Solutions Architect · DevOps Engineer · Practice Lead** — designing resilient Azure solutions, driving cloud and AI adoption, and leading engineering teams that add value on every delivery
 - 📦 Publishing open-source libraries on [NuGet](https://www.nuget.org/profiles/masterzdran) (44 packages, **178,000+ downloads**) and [PyPI](https://pypi.org/project/mz-logging-azure-tablestorage/)
 - 🏛️ Creator of **Structura** — a family of solution templates for React, .NET and Python projects
 - 🧪 Creator of **DataForger** — deterministic, country-aware synthetic test data for .NET
